@@ -1,2 +1,2 @@
 # PatikaDevHTML
- PatikaDev HTML eğitimi ödevleri.
+ patika.dev HTML eğitimi ödevleri.
